@@ -1,2 +1,4 @@
 # hello-world
-git demo
+Hello, 
+
+I am Edson Jengwa learning Git repository.
